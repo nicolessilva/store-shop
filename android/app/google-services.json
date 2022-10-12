@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535785054228",
+    "project_id": "store-shop-4a73f",
+    "storage_bucket": "store-shop-4a73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535785054228:android:cc847e97d9e9c1ba40c701",
+        "android_client_info": {
+          "package_name": "com.nicole.store_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535785054228-1uas8ocs3oo8v42havinifu7kghh6l3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhFfqpfFIpXAaZtJJd6JjOt04537O3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535785054228-1uas8ocs3oo8v42havinifu7kghh6l3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
